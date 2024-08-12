@@ -1,0 +1,9 @@
+.nav-items{
+    display: flex;
+    border: 1px solid red;
+    padding: 2px 16px;
+
+    a{
+        text-decoration: none;
+    }
+}
