@@ -6,7 +6,7 @@ const Nav = () => {
     <div className='nav-container'>
         <NavItem title='ADD USER' link='/'/>
         <NavItem title='USER LIST' link='/user-list'/>
-        <NavItem title='PRODUCT' link='/product'/>
+        <NavItem title='PRODUCT' link='/product-page'/>
         <NavItem title='PRODUCT LIST' link='/product-list'/>
     </div>
   )
